@@ -5,6 +5,7 @@
 |    Date   | Organization      | Course                        |Certificate|
 |:---------:|:-----------------:|:----------------------------|:-------|
 | 17.07.19  | [DSA](https://www.datascienceacademy.com.br/)       | [Microsoft Power BI to Data Science](https://www.datascienceacademy.com.br/course?courseid=microsoft-power-bi-para-data-science) |[Certificate](https://i.imgur.com/G17WfVh.png)
+| 08.01.20  | [Udemy](https://www.udemy.com/)       | Business Inteligence with Microsoft Power BI |[Certificate](https://i.imgur.com/l9PTwCs.png)
 
 
 
