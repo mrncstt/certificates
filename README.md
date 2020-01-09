@@ -37,3 +37,9 @@
 |    Date   | Organization      | Course                        |Certificate|
 |:---------:|:-----------------:|:----------------------------|:-------|
 | 10.11.18  | SENAI       | Unraveling Industry 4.0 |[Certificate](https://i.imgur.com/TZtKj8A.png)
+
+## English
+
+|    Date   | Organization      | Name                        |Certificate|Type|
+|:---------:|:-----------------:|:----------------------------|:-------|:-------|
+| 07.01.20  | [Fivver](https://www.fiverr.com/)       | English to PT-BR |[Certificate](https://i.imgur.com/fu3wGjC.png) | Test|
