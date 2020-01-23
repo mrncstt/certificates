@@ -8,6 +8,11 @@
 | 08.01.20  | [Udemy](https://www.udemy.com/)       | Business Inteligence with Microsoft Power BI |[Certificate](https://i.imgur.com/l9PTwCs.png)| Course|
 
 
+## Python
+
+|    Date   | Organization      | Name                        |Certificate|Type|
+|:---------:|:-----------------:|:----------------------------|:-------|:-------|
+| 22.01.20  | DataCamp       | Intermediate Python |[Certificate](https://camo.githubusercontent.com/4b6683873c1117decaa092125370bc229dd30bed/68747470733a2f2f692e696d6775722e636f6d2f374f6d684764312e706e67)| Course|
 
 ## Excel
 
