@@ -14,6 +14,13 @@
 |:---------:|:-----------------:|:----------------------------|:-------|:-------|
 | 22.01.20  | DataCamp       | Intermediate Python |[Certificate](https://camo.githubusercontent.com/4b6683873c1117decaa092125370bc229dd30bed/68747470733a2f2f692e696d6775722e636f6d2f374f6d684764312e706e67)| Course|
 
+
+## SQL
+
+|    Date   | Organization      | Name                        |Certificate|Type|
+|:---------:|:-----------------:|:----------------------------|:-------|:-------|
+| 05.02.20  | DataCamp       | Introduction to SQL Server |[Certificate](https://www.datacamp.com/statement-of-accomplishment/course/9e5faa1eeb2ef0550780b35835b7e6faff5dd982)| Course|
+
 ## Excel
 
 |    Date   | Organization      | Name                        |Certificate|Type|
