@@ -56,3 +56,10 @@
 |    Date   | Organization      | Name                        |Certificate|Type|
 |:---------:|:-----------------:|:----------------------------|:-------|:-------|
 | 07.01.20  | [Fivver](https://www.fiverr.com/)       | English to PT-BR |[Certificate](https://i.imgur.com/fu3wGjC.png) | Test|
+
+
+## Scrum
+
+|    Date   | Organization      | Name                        |Certificate|Type|
+|:---------:|:-----------------:|:----------------------------|:-------|:-------|
+| 06.06.20  | [CertiProf](https://www.certiprof.com/scrum-foundation-professional-certificate-portuguese/)       | Scrum foundation professional certificate |[Certificate](https://i.imgur.com/qJ3y93o.png) | Test|
